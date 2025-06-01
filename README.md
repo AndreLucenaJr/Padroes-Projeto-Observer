@@ -1,4 +1,4 @@
-# Padroes de Projeto - Projeto Observser
+# Padroes de Projeto - Projeto Observer
 
 ## Matéria
 Arquitetura e Projetos de Software
